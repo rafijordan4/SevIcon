@@ -1,0 +1,12 @@
+{
+  "id": "com.sevicon.acode",
+  "name": "SevIcon",
+  "main": "main.js",
+  "version": "1.0.0",
+  "readme": "README.md",
+  "icon": "icon.png",
+  "files": ["assets/sevicon-logo.svg"],
+  "minVersionCode": 290,
+  "price": 0,
+  "author": { "name": "SevIcon" }
+}
